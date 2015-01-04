@@ -1,0 +1,51 @@
+
+=======================================================
+Achieved When: Fri Aug 27 03:06:22 CST 2010
+
+Time: 2380 ms
+Velocity: 49 pts/s
+Fuel: 204 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 800 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 400 unit
+=======================================================
+
+=======================================================
+Achieved When: Fri Aug 27 03:08:59 CST 2010
+
+Time: 2860 ms
+Velocity: 78 pts/s
+Fuel: 193 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 800 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 400 unit
+=======================================================
+
+=======================================================
+Achieved When: Fri Aug 27 03:09:02 CST 2010
+
+Time: 1690 ms
+Velocity: 77 pts/s
+Fuel: 261 unit
+
+====Current Settings ====
+Velocity Limit: 80.0 pts/s
+Gravity: 800 pts/s^2
+Down Accelation: 1200 pts/s^2
+Left Accelation: 640 pts/s^2
+Right Accelation: 640 pts/s^2
+Up Accelation: 640 pts/s^2
+Total Fuel: 400 unit
+=======================================================
